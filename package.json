@@ -1,6 +1,6 @@
 {
   "name": "@hashnite/drizzle",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "A reactive data-store for web3 and smart contracts.",
   "main": "dist/drizzle.js",
   "repository": {
