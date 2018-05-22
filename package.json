@@ -1,11 +1,11 @@
 {
-  "name": "drizzle",
-  "version": "1.1.5",
+  "name": "@hashnite/drizzle",
+  "version": "1.2.1",
   "description": "A reactive data-store for web3 and smart contracts.",
   "main": "dist/drizzle.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/trufflesuite/drizzle"
+    "url": "https://github.com/hashnite/drizzle"
   },
   "scripts": {
     "build": "webpack --config webpack.config.js",
@@ -17,6 +17,11 @@
     "redux-saga"
   ],
   "author": {
+    "name": "Wilco Bakker",
+    "email": "updategaming4everorg@gmail.com",
+    "url": "http://hashnite.com"
+  },
+  "originalAuthor": {
     "name": "Josh Quintal",
     "email": "josh@trufflesuite.com",
     "url": "http://truffleframework.com/docs/drizzle/getting-started"
